@@ -1,0 +1,12 @@
+#size{
+    font-size: 30px;
+}
+.copyright-info{
+    line-height: 3;
+    width: 100%;
+    bottom: 0;
+    background-color: gold;
+    color: black;
+    text-align: center;
+    position:fixed;
+}
